@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-02-hellospring" />
+        <module name="springmvc-06-Ajax" />
+        <module name="spring-01-ioc" />
+        <module name="spring-04-di" />
+        <module name="spring-11-transaction" />
+        <module name="springmvc-04-controller" />
+        <module name="springmvc-05-json" />
+        <module name="spring-10-mybatis" />
+        <module name="springmvc-03-annotation" />
+        <module name="spring-09-aop" />
+        <module name="springmvc-02.1-hellomvc" />
+        <module name="spring-03-ioc2" />
+        <module name="springmvc-07-intercepter" />
+        <module name="spring-07-appconfig" />
+        <module name="spring-05-06-AutowiredANDAnno" />
+        <module name="springmvc-08-file" />
+        <module name="springmvc-02.2-hellomvc" />
+        <module name="spring-01-ioc1" />
+        <module name="springmvc-01-servlet" />
+        <module name="spring-05-Autowired" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
